@@ -1,6 +1,6 @@
 # DevTest
 
-Para executar o código basta abrir o cmd ou pelo seu terminal do VsCode (NECESSARIO OBTER O NODE.JS NO SEU COMPUTADOR)
+Para executar o código basta abrir o cmd ou pelo seu terminal do VsCode (NECESSARIO OBTER O NODE.JS NO SEU COMPUTADOR) <br>
 Site node: https://nodejs.org/pt
 
 
