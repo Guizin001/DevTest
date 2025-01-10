@@ -18,4 +18,4 @@ const faturamentoPorEstado = {
   });
 
 
-// Para executar o código, utilize o comando: node pergunta4.js
+// Para executar o código, utilize o comando: node .\pergunta4.js
