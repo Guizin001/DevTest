@@ -10,4 +10,4 @@ while (K < INDICE) {
 console.log(SOMA);
 
 
-//Para executar o código, utilize o comando: node pergunta1.js
+//Para executar o código, utilize o comando: node .\pergunta1.js
