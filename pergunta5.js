@@ -18,4 +18,4 @@ if (input) {
 }
 
 
-// Para executar o código, utilize o comando: node pergunta5.js <string>
+// Para executar o código, utilize o comando: node .\pergunta5.js <string>
