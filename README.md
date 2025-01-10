@@ -4,7 +4,7 @@ Para executar o código basta abrir o cmd ou pelo seu terminal do VsCode (NECESS
 Site node: https://nodejs.org/pt
 
 
-#EXECUTAR PELO CMD
+# EXECUTAR PELO CMD
 
 Abrir a pasta DevTest-main ir na aba de pesquisa do Explorador de arquivos e digitar "cmd", após isso basta digitar os comandos.
 
@@ -15,7 +15,7 @@ pergunta4.js
 pergunta5.js "Escrever uma palavra"
 
 
-#EXECUTAR PELO VSCODE
+# EXECUTAR PELO VSCODE
 
 Abrir a pasta DevTest-main ir onde esta escrito "TERMINAL" ou realizar o comando CTRL+SHIFT+'.
 
