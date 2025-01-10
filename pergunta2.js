@@ -28,4 +28,4 @@ if (isNaN(numero)) {
 }
 
 
-//Para executar o código, utilize o comando: node pergunta2.js <numero>
+//Para executar o código, utilize o comando: node .\pergunta2.js <numero>
