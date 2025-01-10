@@ -60,4 +60,4 @@ console.log(`Número de dias com faturamento acima da média: ${resultado.diasAc
 console.log(`Número de dias sem faturamento: ${resultado.diasSemFaturamento}`);
 
 
-// Para executar o código, utilize o comando: node pergunta3.js
+// Para executar o código, utilize o comando: node .\pergunta3.js
